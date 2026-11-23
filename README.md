@@ -9,7 +9,7 @@ answers, private data or credentials are included.
 ## Skill
 
 - Name: `academic-template-conformance`
-- Summary: Extract itemised formatting requirements from a journal or thesis template and audit a manuscript for heading hierarchy, figure/table numbering, captions, reference list and required declarations. Use when a task asks whether a paper conforms to a submission template and which fixes are needed.
+- Summary: Extract itemised formatting requirements from a journal or thesis template, audit and text-level fix a manuscript (heading hierarchy, numbering, captions, reference entries) for conformance, inventory content units, and report per-item evidence with locators in /app/output/result.json. Use when a task asks whether and how a paper should be adapted to a submission template.
 
 ## Contents
 
