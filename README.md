@@ -2,9 +2,9 @@
 
 本题：学术格式与模板适配（challenge-96263d10，赛道 writing）。
 
-能力定位：在保留原始事实（数字、单位、引用、图表编号、专有名词）的前提下改写与扩写学术文本，产出可直接落盘的成稿，并给出逐条可核验的变更记录
+能力定位：按目标模板把通用稿件转换为可编辑 docx，字体、字号、行距、页边距、标题层级与题注样式一致，并给出模板规则→文档样式的可复核映射。
 
-交付物：result.json（契约齐全）、改写稿、evidence_map、change_log
+交付物：manuscript-formatted.docx（真实 OOXML）、format-map.json、format-spec-checklist.json、conversion-diff.json
 
 
 ## 这个 Skill 做什么
