@@ -3,5 +3,6 @@
  "track": "writing",
  "family": "writing",
  "title": "学术格式与模板适配",
- "skill_name": "bohr-writing"
+ "skill_name": "bohr-writing",
+ "task": "format_docx"
 }
